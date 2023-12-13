@@ -19,7 +19,7 @@ To install this project you want to copy the repo onto your local machine, then 
 
 Once you have followed the steps to install the project correctly you will run "npm run start" in your integrated terminal to have the application go live. 
 
-![alt text](assets/images/screenshot.png)
+[Untitled_ Dec 13, 2023 12_19 PM.webm](https://github.com/Jp0st/social-network-api/assets/108998647/18cc0c59-cad1-40c1-9cee-9a718b4853c1)
 
 ## Credits
 
